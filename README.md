@@ -1,2 +1,3 @@
-# class-attendance
-A mobile app to implement class attendance for a cloud-based school management system. Stack: Expo, Supabase.
+## Class Attendance
+
+A proof of concept mobile to see how a class attendance app would work using Expo and Supabase
